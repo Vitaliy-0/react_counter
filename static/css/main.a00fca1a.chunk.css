@@ -1,0 +1,2 @@
+*{box-sizing:border-box}html{font-family:Arial,sans-serif}body{max-width:50%;margin:0 auto;background-color:#eee}.Counter{display:flex;justify-content:center;flex-direction:column;align-items:center}.button{padding:10px;border:none;background-color:#00f;color:#fff}.button:hover{cursor:pointer;box-shadow:4px 4px 8px 0 rgba(34,60,80,.2)}.button:not(:last-child){margin-bottom:10px}
+/*# sourceMappingURL=main.a00fca1a.chunk.css.map */
